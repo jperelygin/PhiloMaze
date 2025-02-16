@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 63c5ed07d4a744c46a019d8c145254f0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Literaturnaya
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31c7a59ef077ae14aa6e1ac6bc988fb6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
